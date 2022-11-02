@@ -170,7 +170,7 @@ ul li a:hover{
 .card-projects-body img{
     width: 100%;
     height: 85%;
-    border-radius: 2%f;
+    border-radius: 2%;
     transition: scale 0.3s;
 }
 .card-projects-body img:hover{
