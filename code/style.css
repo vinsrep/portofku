@@ -288,7 +288,7 @@ ul li a:hover{
     }
     .container-about{
         margin: auto;
-        padding: 0;
+        padding: 0 10px;
         height: 40rem;
     }
     /* ngulik */
