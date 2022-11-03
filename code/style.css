@@ -309,6 +309,7 @@ ul li a:hover{
         margin: auto;
         margin-top: 25rem;
         padding: 0;
+        height: 2rem;
     }
     /* contacts */
     .container-contacts{
