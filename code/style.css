@@ -253,7 +253,6 @@ ul li a:hover{
 @media screen and (max-width: 1000px) {
     * {
         text-align: left;
-        scale: 97%;
     }
     /* body */
     .container-body{
