@@ -264,7 +264,7 @@ ul li a:hover{
     }
     /* nav */
     .container-nav{
-        margin: 0 10px;
+        margin: auto;
         padding: 0;
         width: 100%;
     }
@@ -279,31 +279,33 @@ ul li a:hover{
     /* about */
     .about-text{
         scale: 93%;
-        margin: 100px 0px;
+        margin: auto;
     }
     .about-img{
       scale: 90%;
-      margin: 0 10px;
+      margin: auto;
       padding: 0;
     }
     .container-about{
-        margin: 0 10px;
+        margin: auto;
         padding: 0;
         height: 40rem;
     }
     /* ngulik */
     .container-ngulik{
-        margin: 0 10px;
+        margin: auto;
         padding: 0;
     }
     /* projects */
     .container-projects{
-        margin: 0 10px;
+        margin: auto;
+        margin-top: 25rem;
         padding: 0;
     }
     /* contacts */
     .container-contacts{
-        margin: 0 10px;
+        margin: auto;
+        margin-top: 10rem;
         padding: 0;
     }
     .card-contacts-body{
