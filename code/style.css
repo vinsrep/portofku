@@ -269,7 +269,7 @@ ul li a:hover{
     }
     nav{
         box-shadow: 0px 1px 1px #1B262C;
-        border-radius: 20px;
+        border-radius: 0 0 20px 20px;
         width: 100%;
         text-align: center;
     }
